@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there! I'm Justin. Currently, I study computer science at Kutztown University of Pennsylvania, and I'm in the class of 2026.
+Hi there! I'm Justin. Currently, I study computer science at Kutztown University of Pennsylvania. 
+Class of 2026
 
 -  I'm 18 years old.
 - 🖥️ I'm currently learning: C++ and the Unix Environment
