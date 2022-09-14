@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **JustinCostenbader/JustinCostenbader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there 👋 I'm Justin. Currently, I study computer science at Kutztown University of Pennsylvania, and I'm in the class of 2026.
+Hi there! I'm Justin. Currently, I study computer science at Kutztown University of Pennsylvania, and I'm in the class of 2026.
 
--  I am 18 years old.
-- 🖥️ I am currently learning: C++ and the Unix Environment
+-  I'm 18 years old.
+- 🖥️ I'm currently learning: C++ and the Unix Environment
 - 🔤 Languages: English
-- ⌨️ Programming Languages I know: JavaScript, Java, C#, HTML, CSS
-- 🔢 Programming Frameworks I know: ASP(.NET Core)
+- ⌨️ Programming Languages: JavaScript, Java, C#, HTML, CSS
+- 🔢 Programming Frameworks: ASP(.NET Core)
