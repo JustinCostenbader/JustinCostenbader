@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there 👋 I'm Justin. Currently, I study computer science at Kutztown University of Pennsylvania, and I'm in the class of 2026.
+
+-  I am 18 years old.
+- 🖥️ I am currently learning: C++ and the Unix Environment
+- 🔤 Languages: English
+- ⌨️ Programming Languages I know: JavaScript, Java, C#, HTML, CSS
+- 🔢 Programming Frameworks I know: ASP(.NET Core)
