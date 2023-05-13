@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Hi there! I'm Justin. Currently, I study computer science at Kutztown University of Pennsylvania. 
 Class of 2026
 
--  I'm 18 years old.
+-  I'm 19 years old.
 - 🖥️ I'm currently learning: C++ and the Unix Environment
 - 🔤 Languages: English
 - ⌨️ Programming Languages: JavaScript, Java, C#, HTML, CSS
