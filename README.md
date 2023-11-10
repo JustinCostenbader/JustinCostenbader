@@ -23,3 +23,4 @@ Class of 2026
 - 🔤 Languages: English
 - ⌨️ Programming Languages: C++, C#, Java, JavaScript, HTML, CSS
 - 🔢 Programming Frameworks: ASP(.NET Core)
+- 🐧 UNIX
