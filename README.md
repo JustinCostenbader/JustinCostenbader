@@ -19,7 +19,7 @@ Hi there! I'm Justin. Currently, I study computer science at Kutztown University
 Class of 2026
 
 -  I'm 19 years old.
-- 🖥️ I'm currently learning: C++ and the Unix Environment
+- 🖥️ I'm currently learning: MASM and basic circuit design
 - 🔤 Languages: English
-- ⌨️ Programming Languages: JavaScript, Java, C#, HTML, CSS
+- ⌨️ Programming Languages: C++, C#, Java, JavaScript, HTML, CSS
 - 🔢 Programming Frameworks: ASP(.NET Core)
