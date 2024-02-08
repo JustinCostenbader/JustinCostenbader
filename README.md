@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 Hi there! I'm Justin. Currently, I study computer science at Kutztown University of Pennsylvania. 
 Class of 2026
 
--  I'm 19 years old.
-- 🖥️ I'm currently learning: MASM and basic circuit design
+-  I'm 20 years old.
+- 🖥️ I'm currently learning: IT Systems
 - 🔤 Languages: English
-- ⌨️ Programming Languages: C++, C#, Java, JavaScript, HTML, CSS
+- ⌨️ Programming Languages: C++, C#, Java, JavaScript, HTML, CSS, MASM
 - 🔢 Programming Frameworks: ASP(.NET Core)
 - 🐧 UNIX
