@@ -19,7 +19,7 @@ Hi there! I'm Justin. Currently, I study computer science at Kutztown University
 Class of 2026
 
 -  I'm 20 years old.
-- 🖥️ I'm currently learning: IT Systems
+- 🖥️ I'm currently learning: Network and Secure Programming
 - 🔤 Languages: English
 - ⌨️ Programming Languages: C++, C#, Java, JavaScript, HTML, CSS, MASM
 - 🔢 Programming Frameworks: ASP(.NET Core)
