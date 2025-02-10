@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 Hi there! I'm Justin. Currently, I study computer science at Kutztown University of Pennsylvania. 
 Class of 2026
 
--  I'm 20 years old.
-- 🖥️ I'm currently learning: SQL (postgres and pgadmin4)
+-  I'm 21 years old.
+- 🖥️ I'm currently learning: 
 - 🔤 Languages: English
-- ⌨️ Programming Languages: C++, C#, Java, JavaScript, HTML, CSS, MASM
+- ⌨️ Programming Languages: C, C++, C#, Java, SQL, JavaScript, HTML, CSS, MASM
 - 🔢 Programming Frameworks: ASP(.NET Core)
 - 🐧 UNIX
